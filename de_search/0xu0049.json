@@ -1,0 +1,6 @@
+[
+	{ "s": "IMPRIMIR", "p": [4] },
+	{ "s": "INFORMACIÓN", "p": [1] },
+	{ "s": "INGRESADO", "p": [4] },
+	{ "s": "INGRESAR", "p": [4, 2] }
+]

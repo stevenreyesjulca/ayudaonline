@@ -1,0 +1,7 @@
+[
+	{ "s": "REACTIVOS", "p": [12] },
+	{ "s": "REGISTRAR", "p": [4] },
+	{ "s": "REGISTRO", "p": [6] },
+	{ "s": "REPORTES", "p": [10] },
+	{ "s": "RESULTADOS", "p": [9, 8, 7] }
+]

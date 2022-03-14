@@ -1,0 +1,13 @@
+[
+	{ "s": "CAJAMARCA", "p": [1] },
+	{ "s": "CLAVE", "p": [12, 11, 10, 8, 7, 6, 5] },
+	{ "s": "CLIC", "p": [4] },
+	{ "s": "CLÍNICOS", "p": [4] },
+	{ "s": "CONFIRMADA", "p": [4] },
+	{ "s": "CONFIRMAR", "p": [4] },
+	{ "s": "CONTINUACIÓN", "p": [4] },
+	{ "s": "CONTRASEÑA", "p": [2] },
+	{ "s": "CORRECTAMENTE", "p": [4] },
+	{ "s": "CORRECTOS", "p": [2] },
+	{ "s": "CREDENCIALES", "p": [2] }
+]

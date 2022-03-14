@@ -1,0 +1,14 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Acceso ... ¡Se requiere una licencia Advanced!", "acceso_al_sistema.htm", []],
+	"3": ["2. Órdenes ... ¡Se requiere una licencia Advanced!", "ordenes_de_atencion.htm", []],
+	"4": ["2.1. Registrar ó... ¡Se requiere una licencia Advanced!", "registrar_orden_de_atencion.htm", [2]],
+	"5": ["3. Médicos... ¡Se requiere una licencia Advanced!", "medicos_afiliados.htm", []],
+	"6": ["3.1. Registro de ... ¡Se requiere una licencia Advanced!", "registro_de_medicos_afiliados.htm", [3]],
+	"7": ["4. Res... ¡Se requiere una licencia Advanced!", "resultados.htm", []],
+	"8": ["4.1. Emisión ... ¡Se requiere una licencia Advanced!", "emision_de_resultados.htm", [4]],
+	"9": ["4.2. Emisión de res... ¡Se requiere una licencia Advanced!", "emision_de_resultados_desde_movil.htm", [4]],
+	"10": ["5. Re... ¡Se requiere una licencia Advanced!", "reportes.htm", []],
+	"11": ["6. Mu... ¡Se requiere una licencia Advanced!", "muestras.htm", []],
+	"12": ["7. Rea... ¡Se requiere una licencia Advanced!", "reactivos.htm", []]
+}

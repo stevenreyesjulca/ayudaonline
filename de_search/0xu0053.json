@@ -1,0 +1,11 @@
+[
+	{ "s": "SE", "p": [4, 2] },
+	{ "s": "SELECCIONADO", "p": [4] },
+	{ "s": "SELECCIONAR", "p": [4] },
+	{ "s": "SERVICIO", "p": [4] },
+	{ "s": "SI", "p": [2] },
+	{ "s": "SISTEMA", "p": [2, 1] },
+	{ "s": "SOLICITE", "p": [4] },
+	{ "s": "SON", "p": [2] },
+	{ "s": "SU", "p": [4, 2] }
+]
